@@ -9,17 +9,17 @@
 根据系统执行框内命令开始安装（大约2分钟完成面板安装）升级后可能需要重启面板<br>
 ```
 Centos全新安装命令：
-yum install -y wget && wget -O install.sh http://bt7.91pic.vip/install/install_6.0.sh && sh install.sh<br>
+yum install -y wget && wget -O install.sh http://bt7.91pic.vip/install/install_6.0.sh && sh install.sh
 ```
 ```
 Fedora全新安装命令：
-wget -O install.sh http://bt7.91pic.vip/install/install_6.0.sh && bash install.sh<br>
+wget -O install.sh http://bt7.91pic.vip/install/install_6.0.sh && bash install.sh
 ```
 ```
 Debian全新安装命令：
-wget -O install.sh http://bt7.91pic.vip/install/install-ubuntu_6.0.sh && bash install.sh<br>
+wget -O install.sh http://bt7.91pic.vip/install/install-ubuntu_6.0.sh && bash install.sh
 ```
 ```
 Ubuntu/Deepin全新安装命令：
-wget -O install.sh http://bt7.91pic.vip/install/install-ubuntu_6.0.sh && sudo bash install.sh<br>
+wget -O install.sh http://bt7.91pic.vip/install/install-ubuntu_6.0.sh && sudo bash install.sh
 ```
