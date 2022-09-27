@@ -7,11 +7,19 @@
 · 本站声明：纯净版基于官方代码、仅做通信剥离、代码未加密、未添加任何新增代码！<br>
 宝塔纯净版 7.6.0版本 [稳定版本/推荐]<br>
 根据系统执行框内命令开始安装（大约2分钟完成面板安装）升级后可能需要重启面板<br>
-Centos全新安装命令：<br>
+```
+Centos全新安装命令：
 yum install -y wget && wget -O install.sh http://bt7.91pic.vip/install/install_6.0.sh && sh install.sh<br>
-Fedora全新安装命令：<br>
+```
+```
+Fedora全新安装命令：
 wget -O install.sh http://bt7.91pic.vip/install/install_6.0.sh && bash install.sh<br>
-Debian全新安装命令：<br>
+```
+```
+Debian全新安装命令：
 wget -O install.sh http://bt7.91pic.vip/install/install-ubuntu_6.0.sh && bash install.sh<br>
-Ubuntu/Deepin全新安装命令：<br>
+```
+```
+Ubuntu/Deepin全新安装命令：
 wget -O install.sh http://bt7.91pic.vip/install/install-ubuntu_6.0.sh && sudo bash install.sh<br>
+```
