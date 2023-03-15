@@ -5,16 +5,16 @@
 
 ```
 发布网址1：
-<a target="_blank" href="https://www.aifan5.com">
+www.aifan5.com
 点我直达</a>
 ```
 ```
 发布网址2：
-<a target="_blank" href="https://www.90fhk.com">
+www.90fhk.com
 点我直达</a>
 ```
 ```
 发布网址3：
-<a target="_blank" href="https://www.fanhaozu.com">
+www.fanhaozu.com
 点我直达</a>
 ```
