@@ -1,17 +1,11 @@
 
-欢迎来到</br>
-资源发布站点</br>
-请收藏此页面，以免丢失！</br>
+## 资源发布站点：
 
-```
-发布网址1：
-www.aifan5.com
-```
-```
-发布网址2：
-www.90fhk.com
-```
-```
-发布网址3：
-www.fanhaozu.com
-```
+> 请收藏此页面，以免丢失！
+
+发布地址，点击直达：
+
+1. [链接一](https://www.aifan5.com)
+2. [链接二](https://www.90fhk.com)
+3. [链接三](https://www.fanhaozu.com)
+
